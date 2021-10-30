@@ -1,8 +1,10 @@
 <h3>Hi there 👋 I am Raymond Huang.</h3>
 <h4>About me:</h4>
 <ul>
-	<li>Current Position: Master Student at Purdue University</li>
-	<li>Study Interests: Operating Systems, Software Defined Networks, Low-level Programming
+	<li>I am master student at Purdue University</li>
+	<li>I am interested in Operating Systems, Software Defined Networks, Low-level Programming</li>
+	<li>I uses C, C++, and Python for my projects</li>
+	<li>I am seeking internship opportunities in summer 2022</li>
 </ul>
 
 <!--
