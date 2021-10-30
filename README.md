@@ -1,5 +1,9 @@
 <h3>Hi there 👋 I am Raymond Huang.</h3>
-<p>I am a Computer Science master student at Purdue University.</p>
+<h4>About me:</h4>
+<ul>
+	<li>Current Position: Master Student at Purdue University</li>
+	<li>Study Interests: Operating Systems, Software Defined Networks, Low-level Programming
+</ul>
 
 <!--
 **RaymondHuang210129/RaymondHuang210129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
