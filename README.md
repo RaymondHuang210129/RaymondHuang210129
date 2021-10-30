@@ -3,7 +3,7 @@
 <ul>
 	<li>I am master student at Purdue University</li>
 	<li>I am interested in Operating Systems, Software Defined Networks, Low-level Programming</li>
-	<li>I uses C, C++, and Python for my projects</li>
+	<li>I mainly use C, C++, and Python for my projects</li>
 	<li>I am seeking internship opportunities in summer 2022</li>
 </ul>
 
