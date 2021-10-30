@@ -6,7 +6,6 @@
 	<li>I uses C, C++, and Python for my projects</li>
 	<li>I am seeking internship opportunities in summer 2022</li>
 </ul>
-name = ___
 
 <!--
 **RaymondHuang210129/RaymondHuang210129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
