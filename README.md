@@ -1,4 +1,5 @@
-<h3> Hi there 👋 I am Raymond Huang. </h3>
+<h3>Hi there 👋 I am Raymond Huang.</h3>
+<p>I am a Computer Science master student at Purdue University.</p>
 
 <!--
 **RaymondHuang210129/RaymondHuang210129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
